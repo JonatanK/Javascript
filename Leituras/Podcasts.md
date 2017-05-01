@@ -7,5 +7,5 @@ Conteúdo excelente, eles abordam varios temas como Javascript, carreiras, back 
 http://devnaestrada.com.br/
 
 ## ZOFE - Zone of Front Enders
-Muito conteúdo legal sobre o mundo front end, desde Javascript até Design
+Excelente conteúdo para quem gosta de front-end, podcasts que vão desde o javascript até design
 http://zofe.com.br/
